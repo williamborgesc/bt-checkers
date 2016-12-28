@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chekers</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="waiting_client">Aguardando Outro jogador</string>
+    <string name="connecting">Conectando</string>
+
+</resources>
